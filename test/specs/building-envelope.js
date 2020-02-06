@@ -5,7 +5,7 @@
  * For full license text, see LICENSE.txt file in the repo root  or https://opensource.org/licenses/BSD-3-Clause
  */
 
-'use strict';
+'use strict'; 
 var assert     = require('assert');
 var proxyquire = require('proxyquire');
 var sinon      = require('sinon');
